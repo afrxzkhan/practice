@@ -1,1 +1,3 @@
 by now I have learned something more on how to add, and commit the changes on terminal
+
+and now I have also learned to clone
