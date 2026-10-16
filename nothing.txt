@@ -1,3 +1,24 @@
 by now I have learned something more on how to add, and commit the changes on terminal
 
 and now I have also learned to clone
+
+Now I also learned to use git diff
+and now I have also learned to amend
+ 
+so this after I wake up and now let's try what I remembered fri 16 oct 10 am
+
+we use git add to stage the changes
+we use git commit -m "" to commit the changes
+we use git add . to add all the files to stage
+we use git git status to check the status
+we use git log to see the logs
+we use git log --oneline to seee the logs in one line
+we use git clone link to clone everything from the git
+we use git amend to amend the last saved commit
+
+
+
+here I also added more notes which were removed 
+
+
+I also want to add this line to test no-edit
